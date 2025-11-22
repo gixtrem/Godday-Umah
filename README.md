@@ -5,41 +5,60 @@ Brigham Young University–Idaho
 
 ---
 
-## **About Me**
+## **Mission Statement**
 
-I'm a Computer Science student passionate about building reliable systems, solving meaningful problems, and constantly leveling up my skills. I enjoy working on projects that blend logic, creativity, and real-world usefulness.
-
-- Currently learning: full-stack development, algorithms, and ML fundamentals  
-- Strengths: problem solving, communication, leadership, adaptability  
-- Interests: software engineering, automation, AI, and IT infrastructure  
-- Motivation: build things that make life easier for real people  
+I aim to build technology that is clean, reliable, and genuinely useful.  
+My focus is on learning deeply, building intentionally, and improving consistently.
 
 ---
 
-## **Core Skills**
+## **About Me**
 
-### **Technical**
-- Python  
-- C#  
-- SQL  
-- HTML & CSS  
-- Git  
-- JavaScript (fundamentals)  
-- Django (in progress)  
+I'm a Computer Science student who enjoys solving problems, creating structured systems, and building tools that help real people. I take pride in clarity, consistency, and thoughtful execution — whether it’s code, design, or communication.
 
-### **Tools & Platforms**
-- ServiceNow  
-- VS Code  
-- GitHub  
-- Windows/macOS troubleshooting  
-- CRM systems  
+- Currently learning: full-stack development, algorithms, machine learning fundamentals  
+- Interested in: software engineering, AI, automation, backend development  
+- Professional strengths: leadership, problem solving, communication, adaptability  
+- Personal philosophy: simple, reliable solutions always win  
 
-### **Soft Skills**
-- Leadership  
-- Team collaboration  
-- Time management  
-- Clear communication  
-- Problem resolution  
+---
+
+## **Current Tech Stack**
+
+| Category | Tools |
+|---------|-------|
+| **Languages** | Python, C#, SQL, HTML, CSS, JavaScript (fundamentals) |
+| **Frameworks / Platforms** | Django (learning), .NET basics |
+| **Tools** | Git, GitHub, ServiceNow, VS Code |
+| **Systems** | Windows & macOS troubleshooting, CRM systems |
+| **Soft Skills** | Leadership, collaboration, communication, time management |
+
+---
+
+## **Highlighted Projects**
+
+### **AI Trade Bot — Multi-Asset Automated Trading System**
+A full ML-powered trading automation tool supporting stocks, forex, and crypto.  
+Includes real-time predictions, technical indicators, trade execution, alerts, backtesting, and risk-management logic.
+
+**Technologies:** Python, ML models, APIs, automation  
+**Focus:** Reliability, accuracy, modular design
+
+---
+
+### **Django Marketplace — Campus Store**
+A student-focused marketplace platform with listing tools, dashboards, multiple image support, and analytics.
+
+**Technologies:** Django, HTML/CSS, SQL  
+**Focus:** User experience, clean architecture
+
+---
+
+### **Algorithms & Data Structures Portfolio**
+A wide collection of DS and algorithms implemented with clarity and correctness in mind — including trees, tries, heaps, concurrency models, and more.
+
+**Technologies:** Python, C#  
+**Focus:** Clean code, performance, correctness
 
 ---
 
@@ -50,27 +69,16 @@ I'm a Computer Science student passionate about building reliable systems, solvi
 - Resolved technical issues for 200+ users  
 - Improved ticket resolution efficiency by 15 percent  
 - Conducted user training that reduced recurring issues by 70 percent  
-- Created a knowledge base that lowered repeated ticket volume  
-
-### **Assistant Manager, Online Academic Support — BYU–Idaho**  
-*Sep 2022 – Jul 2023*  
-- Supervised a team of over 150 representatives  
-- Improved inquiry response time by 75 percent  
-- Helped IT troubleshoot device and network issues for 300+ online students  
-- Supported student retention by optimizing support workflows  
+- Developed a knowledge base reducing duplicate support requests  
 
 ---
 
-## **Highlighted Projects**
-
-### **AI Trade Bot (Stocks + Forex)**  
-An automated multi-asset trading system built with ML predictions, technical indicators, live monitoring, and buy/sell automation.
-
-### **Django Marketplace (Campus Store Project)**  
-A platform for BYU–Idaho students to list and buy items with seller dashboards, multiple image support, and analytics tools.
-
-### **Algorithms & Data Structures Portfolio**  
-A clean set of DS & algorithms implementations including trees, tries, heaps, concurrency models, and random access lists.
+### **Assistant Manager, Online Academic Support — BYU–Idaho**  
+*Sep 2022 – Jul 2023*  
+- Supervised a team of 150+ representatives  
+- Improved response time to student inquiries by 75 percent  
+- Helped IT resolve device and network issues for 300+ students  
+- Contributed to increased student retention through workflow improvements  
 
 ---
 
