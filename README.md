@@ -92,7 +92,7 @@ A wide collection of DS and algorithms implemented with clarity and correctness 
 
 ## **Connect With Me**
 
-**LinkedIn:** https://linkedin.com/in/umahgodday  
+**LinkedIn:** https://linkedin.com/in/umah-godday  
 **GitHub:** https://github.com/gixtrem  
 **Email:** umahgodday@yahoo.com  
 
